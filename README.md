@@ -1,8 +1,8 @@
-# 🎬 Netflix Content Analytics | ELT Project (Python, MySQL & SQL)
+# 🎬 Netflix Content Analytics | ELT Project (Python & SQL)
 
 ## 📌 Project Overview
 
-This project demonstrates an end-to-end **ELT (Extract, Load, Transform)** pipeline using the Netflix Movies & TV Shows dataset. Raw data is extracted and validated using **Python (Pandas)**, loaded into **MySQL**, and transformed using **SQL** to solve real-world business problems. The analysis uncovers insights related to directors, genres, countries, and content trends, showcasing practical data engineering and SQL analytics skills.
+This project demonstrates an end-to-end **ELT (Extract, Load, Transform)** pipeline using the Netflix Movies & TV Shows dataset. Raw data is extracted and validated using **Python (Pandas)**, loaded into **MySQL**, and transformed using **MySQL** to solve real-world business problems. The analysis uncovers insights related to directors, genres, countries, and content trends, showcasing practical data engineering and SQL analytics skills.
 
 ---
 
